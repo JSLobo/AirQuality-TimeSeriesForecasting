@@ -1,0 +1,13 @@
+ANN - Back-propagation:
+7 - X - 1
+X = [3,5,15,20]
+1000 Epochs
+20 Cycles
+
+
+NMHC 915 of 9357
+01-05-2004: 1232 - 915= 317 muestras para generar
+102 '-200' seguidos desde la fila 186 hasta la fila 288
+48  '-200' seguidos desde la fila 570 hasta la fila 618
+146 '-200' seguidos desde la fila 899 hasta la fila 1045
+Las otras 21 muestras están bien ubicadas de una
